@@ -22,7 +22,7 @@ public class NumberUtilTest {
     }
 
     @Test
-    public void testSubstract_returnsCorrectResult() {
+    public void testSubtract_returnsCorrectResult() {
         int a = 2;
         int b = 3;
         int expected = -1;
